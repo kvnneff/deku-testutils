@@ -1,0 +1,33 @@
+{
+  "name": "deku-testutils",
+  "version": "1.0.0",
+  "description": "A collection of utilities for testing Deku components",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvnneff/deku-testutils.git"
+  },
+  "keywords": [
+    "deku",
+    "test"
+  ],
+  "author": "Kevin Neff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvnneff/deku-testutils/issues"
+  },
+  "homepage": "https://github.com/kvnneff/deku-testutils#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "assert-element": "^0.3.1",
+    "component-mock": "0.0.2",
+    "deku-component-find-all": "^1.0.1",
+    "deku-component-find-class": "^1.0.0",
+    "deku-component-is-node": "^1.0.0"
+  }
+}
