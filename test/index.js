@@ -8,7 +8,8 @@ var utils = [
   'findAll',
   'findWithClass',
   'findAllWithClass',
-  'isNode'
+  'isNode',
+  'mount'
 ]
 
 describe('deku-testutils', function () {
