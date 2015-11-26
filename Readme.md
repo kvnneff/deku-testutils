@@ -14,7 +14,7 @@ Includes:
 
 ```js
 import utils from 'deku-testutils'
-const Mock = utils.mock
+const Mock = utils.Mock
 const assert = utils.assert
 const isNode = utils.isNode
 const findAll = utils.findAll
