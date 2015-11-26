@@ -27,7 +27,7 @@
     "assert-element": "^0.3.1",
     "component-mock": "0.0.2",
     "deku-component-find-all": "^1.0.1",
-    "deku-component-find-class": "^1.0.0",
+    "deku-component-find-class": "^1.0.1",
     "deku-component-is-node": "^1.0.0"
   }
 }
