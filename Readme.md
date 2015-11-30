@@ -10,7 +10,7 @@ Includes:
 
 - [component-mock](https://github.com/dekujs/component-mock): A wrapper for deku components to facilitate easier unit-testing.
 - [assert-element](https://github.com/dekujs/assert-element): Assertions that can be used when working with Deku/React and JSX.
-- [deku-component-mount](https://github.com/kvnneff/deku-component-is-node): Mount a Deku component to the DOM.
+- [deku-component-mount](https://github.com/kvnneff/deku-component-mount): Mount a Deku component to the DOM.
 - [deku-component-is-node](https://github.com/kvnneff/deku-component-is-node): Determine if an object is a valid Deku node.
 - [deku-component-find-all](https://github.com/kvnneff/deku-component-find-all): Traverse a Deku component tree and return all components that satisfy a function.
 - [deku-component-find-class](https://github.com/kvnneff/deku-component-find-all):Traverse a Deku component tree and return with a given class name.
